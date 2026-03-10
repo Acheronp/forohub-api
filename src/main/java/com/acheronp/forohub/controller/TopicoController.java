@@ -1,5 +1,6 @@
-package com.acheronp.forohub.domain.Topico;
+package com.acheronp.forohub.controller;
 
+import com.acheronp.forohub.domain.topico.*;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

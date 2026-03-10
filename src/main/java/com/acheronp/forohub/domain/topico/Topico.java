@@ -1,4 +1,4 @@
-package com.acheronp.forohub.domain.Topico;
+package com.acheronp.forohub.domain.topico;
 
 
 import jakarta.persistence.*;
